@@ -1,0 +1,1 @@
+../../../../../../huangye_ios_lib/IMSDK/IMSDK/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerBase.h

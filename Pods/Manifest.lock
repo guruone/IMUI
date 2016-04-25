@@ -1,0 +1,97 @@
+PODS:
+  - AFNetworking (2.4.1):
+    - AFNetworking/NSURLConnection (= 2.4.1)
+    - AFNetworking/NSURLSession (= 2.4.1)
+    - AFNetworking/Reachability (= 2.4.1)
+    - AFNetworking/Security (= 2.4.1)
+    - AFNetworking/Serialization (= 2.4.1)
+    - AFNetworking/UIKit (= 2.4.1)
+  - AFNetworking/NSURLConnection (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.1)
+  - AFNetworking/Security (2.4.1)
+  - AFNetworking/Serialization (2.4.1)
+  - AFNetworking/UIKit (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Aspects (1.4.1)
+  - DACircularProgress (2.3.1)
+  - FIR.im (99.99)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - HYCoreFramework (0.2.0):
+    - AFNetworking (~> 2.4.0)
+    - FMDB (~> 2.5)
+    - Masonry
+    - MBProgressHUD (~> 0.9.1)
+    - MJRefresh (~> 2.0.1)
+  - HYPhotoBrowser (0.1):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - HYPOPView (0.1):
+    - Masonry
+  - IMSDK (0.1)
+  - Masonry (0.6.3)
+  - MBProgressHUD (0.9.1)
+  - MJRefresh (2.0.4)
+  - pop (1.0.8)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+
+DEPENDENCIES:
+  - Aspects (~> 1.4.1)
+  - FIR.im
+  - HYCoreFramework (from `~/huangye_ios_lib/HYCoreFramework`)
+  - HYPhotoBrowser (from `~/huangye_ios_lib/HYPhotoBrowser`)
+  - HYPOPView (from `~/huangye_ios_lib/HYPOPView`)
+  - IMSDK (from `~/huangye_ios_lib/IMSDK`)
+  - pop
+  - ReactiveCocoa (~> 2.5)
+  - SDWebImage (~> 3.7.3)
+
+EXTERNAL SOURCES:
+  HYCoreFramework:
+    :path: ~/huangye_ios_lib/HYCoreFramework
+  HYPhotoBrowser:
+    :path: ~/huangye_ios_lib/HYPhotoBrowser
+  HYPOPView:
+    :path: ~/huangye_ios_lib/HYPOPView
+  IMSDK:
+    :path: ~/huangye_ios_lib/IMSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: 41d45d2c14219af0fa5addf3cfd433a002c13c9f
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  FIR.im: ea9b08c8692f9399e5bddc1e36c0563fffaeebe4
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  HYCoreFramework: 0551bf127970c7ef2bfa226c218c34649e605b66
+  HYPhotoBrowser: db6dffad6be31fa249536aec3ecdf27a932e0d4c
+  HYPOPView: 5bd7fce1d6f8f1fa40bf07e3dc8e43890e70afd0
+  IMSDK: 3755b9e25b45e28c705bab57e5d7d09fe1f3ed81
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJRefresh: ea153717001d3c02444bd22b75c111d2937d2104
+  pop: bb773ae2c791ca2629de13b347e7a8b450fa6a57
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+
+COCOAPODS: 0.38.2

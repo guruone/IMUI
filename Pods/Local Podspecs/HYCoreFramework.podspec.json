@@ -1,0 +1,40 @@
+{
+  "name": "HYCoreFramework",
+  "version": "0.2.0",
+  "summary": "this is core framework for huangye ios team",
+  "description": "this is core framework for huangye ios team",
+  "homepage": "http://58.com",
+  "license": "MIT",
+  "authors": {
+    "knight": "huangbin911@gmial.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "http://gitlab.58corp.com/ios_huangye_team/HYCoreFramework.git"
+  },
+  "source_files": [
+    "HYCoreFramework/CommonLib/**/*.{h,m}",
+    "HYCoreFramework/NOARC/**/*.{h,m}"
+  ],
+  "exclude_files": "HYCoreFramework/Exclude",
+  "requires_arc": "HYCoreFramework/CommonLib/**/*.m",
+  "dependencies": {
+    "AFNetworking": [
+      "~>2.4.0"
+    ],
+    "Masonry": [
+
+    ],
+    "MJRefresh": [
+      "~> 2.0.1"
+    ],
+    "MBProgressHUD": [
+      "~> 0.9.1"
+    ],
+    "FMDB": [
+      "~> 2.5"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+../../../../../../huangye_ios_lib/HYPhotoBrowser/Pod/Classes/MWPhoto.h

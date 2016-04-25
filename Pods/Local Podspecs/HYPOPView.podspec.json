@@ -1,0 +1,26 @@
+{
+  "name": "HYPOPView",
+  "version": "0.1",
+  "summary": "Pop-up based view(e.g. AlertView SheetView), or you can easily customize for your own usage.",
+  "homepage": "https://github.com/adad184/MMPopupView",
+  "license": {
+    "type": "MIT License",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "adad184": "adad184@gmail.com"
+  },
+  "source": {
+    "git": "http://gitlab.58corp.com/ios_huangye_team/HYPOPView.git"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

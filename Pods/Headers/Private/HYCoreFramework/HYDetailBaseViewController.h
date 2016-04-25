@@ -1,0 +1,1 @@
+../../../../../../huangye_ios_lib/HYCoreFramework/HYCoreFramework/CommonLib/Controllers/HYDetailBaseViewController.h

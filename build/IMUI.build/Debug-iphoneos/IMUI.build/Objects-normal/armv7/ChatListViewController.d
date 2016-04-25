@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Class/Chat/ChatList/ChatListViewController.m \
+  /Users/knight/Desktop/IMUI/IMUI/PrefixHeader.pch \
+  /Users/knight/Desktop/IMUI/IMUI/config/Header.h \
+  /Users/knight/Desktop/IMUI/IMUI/Tools/SLTools.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/ChatDemoUIDefine.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/EMAlertView/EMAlertView.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/TTGlobalUICommon/TTGlobalUICommon.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Category/UIViewController+HUD.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Category/UIViewController+DismissKeyboard.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Category/NSString+Valid.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/EMSDWebImage/UIImageView+EMWebCache.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/EMSDWebImage/EMSDWebImageCompat.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/EMSDWebImage/EMSDWebImageManager.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/EMSDWebImage/EMSDWebImageOperation.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/EMSDWebImage/EMSDWebImageDownloader.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/EMSDWebImage/EMSDImageCache.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Class/Chat/ChatList/ChatListViewController.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Custom/ViewController/BaseViewController.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/SlimeRefresh/SRRefreshView.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/3rdparty/SlimeRefresh/SRSlimeView.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Class/Chat/ChatList/ChatListCell.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Custom/EMSearchBar.h \
+  /Users/knight/Desktop/IMUI/IMUI/IM_backup/NSDate+category.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Class/RealtimeSearchUtil.h \
+  /Users/knight/Desktop/IMUI/IMUI/IM_backup/SLChatViewController.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Custom/ViewController/EMSearchDisplayController.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Custom/BaseTableViewCell.h \
+  /Users/knight/Desktop/IMUI/IMUI/IM_backup/ConvertToCommonEmoticonsHelper.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Class/Core\ Data/RobotManager.h \
+  /Users/knight/Desktop/IMUI/IMUI/EaseMob/Class/Chat/ChatView/ChatViewController.h
